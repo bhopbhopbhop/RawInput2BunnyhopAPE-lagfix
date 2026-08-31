@@ -14,18 +14,19 @@ Includes **BunnyhopAPE** from [alkatrazbhop](https://github.com/alkatrazbhop/Bun
 - auto-starting CS:S with `-insecure`
 	- Now with auto-detecting the steam library path!
 - fullscreen hook thing
-- (NEW!) viewpunch remover (e.g. from fall-damage)
-- (NEW!) show file (e.g. map) download progress when loading
-- (NEW!) use the magic of https://fastdl.me to connect to servers that'd give you "Map differs" or "Missing map" errors on connect https://github.com/rtldg/RawInput2BunnyhopAPE/pull/1
+- viewpunch remover (e.g. from fall-damage)
+- show file (e.g. map) download progress when loading
+- use the magic of https://fastdl.me to connect to servers that'd give you "Map differs" or "Missing map" errors on connect https://github.com/rtldg/RawInput2BunnyhopAPE/pull/1
+- (NEW!) lagfix!!! client-side trigger prediction for teleports/pushes/boosters (`F8`) - not perfect but its better than nothing
 
 ### Usage
 * Download the latest RawInput2BunnyhopAPE.exe from the [Releases](https://github.com/rtldg/RawInput2BunnyhopAPE/releases) page.
 * Run RawInput2BunnyhopAPE.exe
 * Make sure to set ``m_rawinput 2`` in game for it to take effect.
-* `F5` to toggle autohop prediction (OFF by default) (you shouldn't need this anymore now that bhoptimer supports sv_autobunnyhopping)
+* `F5` to toggle autohop prediction (on by default)
 * `F6` to toggle the fullscreen hook thing which keeps the game open in fullscreen when you alt-tab (which is nice if you have two monitors) (off by default)
 * `F7` to toggle the viewpunch remover. Basically a client-side [SuppressViewpunch](https://github.com/xen-000/SuppressViewpunch) (on by default)
-
+* `F8` to toggle the trigger prediction, its not perfect but it works :3 
 ### How does the fastdl map thing work?
 |                                                  | You don't have `mapname` downloaded | You have `mapname` downloaded |
 | ------------------------------------------------ | ----------------------------------- | ----------------------------- |
