@@ -14,9 +14,10 @@ Includes **BunnyhopAPE** from [alkatrazbhop](https://github.com/alkatrazbhop/Bun
 - auto-starting CS:S with `-insecure`
 	- Now with auto-detecting the steam library path!
 - fullscreen hook thing
-- (NEW!) viewpunch remover (e.g. from fall-damage)
-- (NEW!) show file (e.g. map) download progress when loading
-- (NEW!) use the magic of https://fastdl.me to connect to servers that'd give you "Map differs" or "Missing map" errors on connect https://github.com/rtldg/RawInput2BunnyhopAPE/pull/1
+- viewpunch remover (e.g. from fall-damage)
+- show file (e.g. map) download progress when loading
+- use the magic of https://fastdl.me to connect to servers that'd give you "Map differs" or "Missing map" errors on connect https://github.com/rtldg/RawInput2BunnyhopAPE/pull/1
+- (NEW!) lagfix!!! client-side trigger prediction for teleports/pushes/boosters (`F8`) - not perfect but its better than nothing
 
 ### Usage
 * Download the latest RawInput2BunnyhopAPE.exe from the [Releases](https://github.com/rtldg/RawInput2BunnyhopAPE/releases) page.
