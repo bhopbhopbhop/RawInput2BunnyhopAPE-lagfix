@@ -26,7 +26,7 @@ Includes **BunnyhopAPE** from [alkatrazbhop](https://github.com/alkatrazbhop/Bun
 * `F5` to toggle autohop prediction (on by default)
 * `F6` to toggle the fullscreen hook thing which keeps the game open in fullscreen when you alt-tab (which is nice if you have two monitors) (off by default)
 * `F7` to toggle the viewpunch remover. Basically a client-side [SuppressViewpunch](https://github.com/xen-000/SuppressViewpunch) (on by default)
-* `F8` to toggle the trigger prediction, its not perfect but it works :3 
+* `F8` to toggle the trigger prediction, its not perfect but it works :3 (on by default)
 
 ### Disclaimer
 
