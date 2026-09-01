@@ -37,5 +37,5 @@ Includes **BunnyhopAPE** from [alkatrazbhop](https://github.com/alkatrazbhop/Bun
 It should be possible to fix `Map differs` errors when you download from the server's fastdl, but it hasn't been worked on yet.
 
 ### Cloning & building
-- `git clone --recurse-submodules https://github.com/rtldg/RawInput2BunnyhopAPE.git`
+- `git clone --recurse-submodules [https://github.com/rtldg/RawInput2BunnyhopAPE.git](https://github.com/bhopbhopbhop/RawInput2BunnyhopAPE-lagfix.git)`
 - Then just build it with Visual Studio 2022+ haha!
