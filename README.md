@@ -1,4 +1,4 @@
-## RawInput2BunnyhopAPE
+## RawInput2BunnyhopAPE + LagFix
 
 ![main ui](https://github.com/rtldg/RawInput2BunnyhopAPE/assets/55846624/78b9702f-cf36-487d-8664-795863b9b3e8)
 ![map download progress](https://github.com/rtldg/RawInput2BunnyhopAPE/assets/55846624/f9bf901c-0d10-46f1-a3f3-e2941ad06560)
